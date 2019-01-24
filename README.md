@@ -5,5 +5,7 @@ is described in detail in the file SOC.pdf. The document is written in czech lan
 
 ## Motivation ##
 The project was made for the competition Stredoskolska odborna cinnost as a student work
-representing the Gymnazium Brno-Reckovice. More information at http://www.soc.cz/ and https://www.gyrec.cz/.
+representing the Gymnazium Brno-Reckovice.
+
+More information at http://www.soc.cz/ and https://www.gyrec.cz/.
 
